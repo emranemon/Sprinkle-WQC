@@ -1,0 +1,51 @@
+Serial,Date,Sample,Temperature,Conductivity,PH,Turbidity,Label
+1,11/18/2018,Water,26,0.48,9.3,0,Drinkable
+2,11/18/2018,Water,25.19,0.17,9.4,0,Drinkable
+3,11/18/2018,Water,26.18,0.22,9.56,0,Drinkable
+4,11/18/2018,water,25.06,0.3,9.83,0,Drinkable
+5,11/18/2018,Water,25.63,0.62,9.5,0,Drinkable
+6,11/26/2018,Water,25.19,0.44,9.45,0,Drinkable
+7,11/26/2018,salt+water,24.88,3.97,9.09,0,Not Drinkable
+8,11/26/2018,heavy salt water,24.63,19.7,9,0,Not Drinkable
+9,11/26/2018,heavysalt+turmaric+water,24.56,19.81,8.8,689.9,Not Drinkable
+10,11/26/2018,lemon+water,24.56,20.44,8.43,2219.1,Not Drinkable
+11,11/26/2018,lemon+water+mud,24.5,0.24,7.66,0,Drinkable
+12,11/26/2018,lemon+water+mud,24.31,0.51,8.09,1289.26,Not Drinkable
+13,11/26/2018,coffee,24.19,0.63,8.74,2395.53,Not Drinkable
+14,11/26/2018,Tea,40.38,2.24,8.71,3000,Not Drinkable
+15,11/26/2018,coke,44.63,2.6,8.21,3000,Not Drinkable
+16,11/26/2018, water,26.38,1.13,7.3,0,Drinkable
+17,11/26/2018,Mud+water,24.88,0.18,9.21,1555.33,Not Drinkable
+18,11/26/2018,Suger+water,24.06,0.12,10.26,0,Not Drinkable
+19,11/26/2018,Mud+water,24.36,0.21,9.46,1799,Not Drinkable
+20,11/26/2018,River water,27.38,0.37,9.45,0,Drinkable
+21,11/26/2018,Sand Water,25,2.26,8.23,1332.89,Not Drinkable
+22,11/26/2018,Water,25.67,0.23,9.33,0,Drinkable
+23,11/26/2028,Water,24.96,0.44,9.66,0,Drinkable
+24,11/26/2018,Water,24.56,0.12,9.23,0,Drinkable
+25,11/26/2018,Water,24.11,0.19,9.12,0,Drinkable
+26,11/26/2018,Water,25.99,0.28,9.88,0,Drinkable
+27,11/26/2018,Water,24.78,0.32,9.07,0,Drinkable
+28,11/26/2018,Water,25.11,0.56,9.2,0,Drinkable
+29,11/26/2018,Water,25.43,0.66,9.43,0,Drinkable
+30,11/26/2018,Water,25.6,0.38,9.5,0,Drinkable
+31,11/27/2018,Hot Water,40,0.13,9.45,0,Drinkable
+32,11/27/2018,cold water,16,0.18,9.18,0,Drinkable
+33,11/27/2018,Water,27,19.89,8.77,389,Not Drinkable
+34,11/27/2018,Water,24,1.78,8.55,1789,Not Drinkable
+35,11/27/2018,Water,26,3.19,8.67,1980,Not Drinkable
+36,11/27/2018,water,25.99,2.89,8.77,2902.89,Not Drinkable
+37,11/27/2018,Water,27,0.98,9.29,0,Drinkable
+38,11/27/2018,Water,26,0.89,9.78,0,Drinkable
+39,11/27/2018,Water,25,0.34,9.26,0,Drinkable
+40,11/27/2018,Water,24.45,0.13,9.23,0,Drinkable
+41,11/27/2018,Water,24.99,0.12,9.12,0,Drinkable
+42,11/27/2018,Water,25,0.98,7.99,0,Drinkable
+43,11/27/2018,Water,26.8,4.78,8.22,1890,Not Drinkable
+44,11/27/2018,Water,27.2,0.13,8.67,0,Drinkable
+45,11/27/2018,Water,25.89,0.23,8.2,0,Drinkable
+46,11/27/2018,Water,26.11,0.89,9,0,Drinkable
+47,11/27/2018,Water,24.65,0.43,9.56,911.9,Not Drinkable
+48,11/27/2018,Water,25.89,0.24,9.34,0,Drinkable
+49,11/27/2018,Water,26.3,0.67,9.66,0,Drinkable
+50,11/27/2018,Water,25,0.22,9.17,0,Drinkable

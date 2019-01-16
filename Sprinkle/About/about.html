@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <style>
+        .sec1 {
+            padding: 5%;
+            font-size: 1.4em;
+            color: #e9defa;
+            font-family: monospace;
+            text-align: justify
+        }
+
+
+        .header {
+            padding: 3%;
+            text-align: center;
+            text-transform: capitalize;
+            color: #222;
+        }
+
+        .sub-header {
+            text-align: center;
+            color: #333;
+        }
+
+        body {
+            margin-left: 15%;
+            margin-right: 15%;
+            background-color:  burlywood;
+            font-family: monospace;
+        }
+
+        footer {
+            clear: both;
+            background-color: #808080;
+            padding: 1%;
+            text-align: center;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        /* Create three equal columns that floats next to each other */
+        .column {
+            float: left;
+            width: 33.33%;
+            padding: 10px;
+            height: 100px;
+            /* Should be removed. Only for demonstration */
+        }
+
+            .column h2 {
+
+                font-size:small;
+                color: #333;
+                line-height:  normal;
+            }
+
+        /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        .bg {
+            background-color:antiquewhite;
+            background-size: cover;
+            background-repeat: no-repeat
+        }
+
+        
+    </style>
+
+
+</head>
+
+<body>
+
+    <div >
+        <header>
+
+            <h1 class="header"> Smart water quality monitoring (SWQM) system</h1>
+            <h1 class="sub-header">Sprinkle : Water Quality Checker</h1>
+
+        </header>
+        <br>
+        <hr>
+
+        <section class="sec1">
+            <h1>Introduction of the App</h1>
+            <p>
+                Water is an important element for sustaining any living beings in the world. But it becomes like a
+                threaten when it gets polluted. From the need of drinkable water, we researched on four water parameters
+                which are pH, electric conductivity, turbidity, temperature and established a smart water quality monitoring (SWQM) system application.
+                We named it <b>Sprinkle : Water Quality Checker </b>
+            </p>
+
+            <h1>How does it work?</h1>
+            <p>
+                This application system takes input of four parameters through four sensors with the help of Arduino.
+                Hence, the application applies machine learning algorithm on the collected data and predicts the output
+                as “Drinkable” or “Not Drinkable”.
+            </p>
+
+        </section>
+        <div class="row " style=" padding: 5%;">
+            <h1>Group Information</h1>
+            <hr>
+            <div class="column" style="border-right: 1px solid">
+                <h2>Samia Islam </h2>
+                <h2>ID: 2015-1-60-102 </h2>
+                <h2>islamsamia94@gmail.com</h2>
+
+            </div>
+            <div class="column" style="border-right: 1px solid">
+                <h2>Monira Mukta </h2>
+                <h2>ID: 2015-1-60-116 </h2>
+                <h2>monira.mukta7@gmail.com</h2>
+
+            </div>
+            <div class="column">
+                <h2>Md. Emon Miea </h2>
+                <h2>ID: 2015-1-60-085 </h2>
+                <h2>eebd71@gmail.com</h2>
+
+            </div>
+
+        </div>
+
+        <footer>Copyright &copy; 2018 Sprinkle: WQC</footer>
+    </div>
+
+</body>
+
+</html>
